@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "a-vector-illustration-of-a-tax-filing-co_sbLwobjISzCcFV_0HjtyBQ_ZRHRUjK9QXiHqUR9_WhghA.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
